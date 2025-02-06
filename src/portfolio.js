@@ -74,15 +74,15 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "C#",
-      fontAwesomeClassname: "fa-solid fa-hashtag"
+      fontAwesomeClassname: "fab fa-slack-hash"
     },
     {
       skillName: "VS Code",
-      fontAwesomeClassname: "fa-solid fa-code"
+      fontAwesomeClassname: "fab fa-old-republic"
     },
     {
       skillName: "VMs",
-      fontAwesomeClassname: "fa-solid fa-computer"
+      fontAwesomeClassname: "fab fa-usb"
     }
   ],
   display: true // Set false to hide this section, defaults to true
