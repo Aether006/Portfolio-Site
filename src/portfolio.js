@@ -51,13 +51,9 @@ const skillsSection = {
   title: "What I do",
   subTitle: "Passionate Student Developer Exploring C#, .NET, Web Development, and Kali Linux",
   skills: [
-    emoji(
-      "⚡ Building robust applications with C# and .NET for both web and desktop environments"
-    ),
+    emoji("⚡ Building robust applications with C# and .NET for both web and desktop environments"),
     emoji("⚡ Experimenting with Kali Linux for security testing and ethical hacking projects"),
-    emoji(
-      "⚡ Exploring full-stack web development, from front-end design to back-end architecture"
-    )
+    emoji("⚡ Exploring full-stack web development, from front-end design to back-end architecture")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -78,15 +74,15 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "C#",
-      fontAwesomeClassname: "fab fa-code"
+      fontAwesomeClassname: "fab fa-solid fa-code"
     },
     {
       skillName: "VS Code",
-      fontAwesomeClassname: "fab fa-laptop-code"
+      fontAwesomeClassname: "fab fa-solid fa-laptop-code"
     },
     {
       skillName: "VMs",
-      fontAwesomeClassname: "fab fa-computer"
+      fontAwesomeClassname: "fab fa-solid fa-computer"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -113,7 +109,7 @@ const educationInfo = {
       subHeader: "High School",
       duration: "September 2018 - Current",
       desc: "Learnt fundamentals in computer science - Data structures and algorithms, Object-oriented Programming, Computer Hardware etc.",
-      descBullets: ["Predicted ABB at A-Level", "A*A*AAAAA BB C at GCSE"]
+      descBullets: ["Predicted ABB at A-Level", "A*A*AAAAABBC at GCSE"]
     }
   ]
 };
