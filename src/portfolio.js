@@ -35,10 +35,8 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/Aether006",
   linkedin: "https://www.linkedin.com/in/tpwoolley/",
-  gmail: "",
-  gitlab: "https://gitlab.com/",
-  facebook: "https://www.facebook.com/",
-  medium: "https://medium.com/",
+  gmail: "	enquiries.tpwoolley@gmail.com",
+  medium: "https://medium.com/@thomaswoolley22",
   stackoverflow: "https://stackoverflow.com/users/",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
@@ -339,9 +337,9 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+123456790",
-  email_address: "",
-  display: false
+  number: "",
+  email_address: "	enquiries.tpwoolley@gmail.com",
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Twitter Section
