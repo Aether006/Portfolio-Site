@@ -37,7 +37,7 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/tpwoolley/",
   gmail: "	enquiries.tpwoolley@gmail.com",
   medium: "https://medium.com/@thomaswoolley22",
-  stackoverflow: "https://stackoverflow.com/users/",
+  stackoverflow: "https://stackoverflow.com/users/29545771/thomas-woolley",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -115,7 +115,7 @@ const educationInfo = {
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
+  viewSkillBars: false, //Set it to true to show Proficiency Section
   experience: [
     {
       Stack: "C#", //Insert stack or technology you have experience in

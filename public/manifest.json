@@ -1,6 +1,7 @@
 {
   "short_name": "Portfolio",
   "name": "Thomas Woolley | Portfolio",
+  "description": "Thomas Woolley's Portfolio",
   "icons": [
     {
       "src": "/favicon.ico",
